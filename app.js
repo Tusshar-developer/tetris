@@ -280,9 +280,3 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 });
-
-var canvas = document.querySelector("#arrowKeys");
-var ctx = canvas.getContext("2d");
-ctx.moveTo(0, 0);
-
-ctx.stroke();
