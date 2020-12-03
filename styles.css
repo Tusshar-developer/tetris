@@ -38,3 +38,18 @@
 .arrowKeys {
   margin-left: 50px;
 }
+
+.black-box {
+  margin-left: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  text-align: center;
+  width: 40%;
+  border: 1px solid #000;
+}
+
+.black-box h1 {
+  margin: auto 40px;
+  font-family: "Courier New", Courier, monospace;
+}
